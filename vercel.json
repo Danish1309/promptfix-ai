@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/improve",
+      "destination": "/api/improve.js"
+    }
+  ],
+  "cleanUrls": true
+}
